@@ -2,7 +2,7 @@
 
 Greetings!
 
-This repository contains projects done either independently or as a part of professional courses, including the "Data Science specialist" apprenticeship program by Yandex Practicum. If a direct URL is given, the project's available. [The repository in Russian](https://github.com/idrv/portfolio-rus) is usually one step ahead, as the projects were documented in Russian in the first place.
+This repository contains projects done either independently or as a part of professional courses, including the "Data Science specialist" apprenticeship program by Yandex Practicum. If a direct URL is given, the project's available. [The repository in Russian](https://github.com/idrv/portfolio-rus#readme) is usually several steps ahead, as the projects were documented in Russian in the first place.
 
 ||Project title|Python<br>libraries stack|
 |:-:|:-|:-|
